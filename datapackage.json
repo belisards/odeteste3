@@ -1,0 +1,33 @@
+{
+  "resources": [
+    {
+      "name": "2314",
+      "type": "table",
+      "path": "2314.xls",
+      "scheme": "file",
+      "format": "xls",
+      "mediatype": "application/vnd.ms-excel",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Armazém de Dados",
+            "type": "any"
+          },
+          {
+            "name": "field2",
+            "type": "any"
+          },
+          {
+            "name": "field3",
+            "type": "any"
+          },
+          {
+            "name": "field4",
+            "type": "any"
+          }
+        ]
+      }
+    }
+  ]
+}
